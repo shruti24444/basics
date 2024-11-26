@@ -1,2 +1,2 @@
 # basics
-my first github class. 
+My first github class. 
